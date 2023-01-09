@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>a卡视频开启插帧功能</title>
+      <link href="/posts/59508.html"/>
+      <url>/posts/59508.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="写在开头"><a href="#写在开头" class="headerlink" title="写在开头"></a>写在开头</h1><p>月考结束后又是快乐的网课时光，所以决定水一篇文章证明我还活着（大雾</p><p>我们知道一般的视频帧率大多约为24fps，而通过 <strong>Bluesky Frame Rate Converter 视频滤镜</strong>我们可以将24fps补全至60fps ( 甚至更高 ) 以<strong>增加视频流畅度</strong></p><p>当然，这个有硬件限制，那就是必须是GCN架构的AMD GPU</p><hr><h1 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h1><ul><li><strong>GCN架构的GPU（当然要装驱动</strong></li><li><a href="https://potplayer.daum.net/">Potplayer播放器</a></li><li><a href="https://bluesky-soft.com/en/BlueskyFRC.html">Bluesky Frame Rate Converter 视频滤镜</a></li></ul><h2 id="如何判断我的GPU是不是GCN架构？"><a href="#如何判断我的GPU是不是GCN架构？" class="headerlink" title="如何判断我的GPU是不是GCN架构？"></a>如何判断我的GPU是不是GCN架构？</h2><p>一般来说，AMD的独立显卡系列从HD 7000系列开始 <del>(不会还有人在用这么老的显卡吧</del>，一直到RX 500系列都是用的GCN架构</p><p>核心显卡应该是笔记本系列<strong>锐龙5000系及其以前</strong>的几乎所有型号，台式机系列<strong>除锐龙7000系</strong>所有型号也都是GCN架构</p><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p>在准备并安装好上述软件后，就可以开始我们的配置工作了</p><h2 id="Bluesky-FRC配置"><a href="#Bluesky-FRC配置" class="headerlink" title="Bluesky FRC配置"></a>Bluesky FRC配置</h2><p>首先，打开刚刚安装的Bluesky FRC</p><p>按照如图进行配置即可，部分配置可以自己微调</p><p>比如:</p><ul><li>Output的输出帧率可以根据自身设备情况调，我的显示器是75Hz所以调到了72p，如果是60Hz的用60p即可</li></ul><p><img src="https://img.cqlkc.top/202212/eb379e85b24f6148bb73285e71cd272c.webp" alt=""></p><h2 id="AMD驱动配置"><a href="#AMD驱动配置" class="headerlink" title="AMD驱动配置"></a>AMD驱动配置</h2><p>首先，桌面找个空白处右键，选择<strong>AMD Software: Adrenalin Edition</strong></p><p><img src="https://img.cqlkc.top/202212/f60859fd6676575e22d705d0b1992eb7.webp" alt=""></p><p>打开后，直接在右上角搜索框，输入：”<strong>音频和视频设置</strong>“</p><p>在<strong>视频配置文件</strong>一项中，选择自定义，然后会出现一个”<strong>自定义选项</strong>“</p><p>找到<strong>AMD Fluid Motion Video</strong>并开启即可</p><p><img src="https://img.cqlkc.top/202212/6c6a8604e5b5c9c32560e6264ca423b8.webp" alt=""></p><h2 id="Potplayer-配置"><a href="#Potplayer-配置" class="headerlink" title="Potplayer 配置"></a>Potplayer 配置</h2><p>随便打开一个视频，右键找到”<strong>选项</strong>“</p><p>左侧侧边栏选择<strong>滤镜—全局滤镜优先权</strong></p><p>右侧点击<strong>添加系统滤镜</strong>，找到”<strong>Bluesky Frame Rate Converter</strong>“并添加</p><p>然后，别忘了优先顺序选择为”<strong>强制使用</strong>“</p><p><img src="https://img.cqlkc.top/202212/0f72daacb097fecd29fea4ec4055a764.webp" alt=""></p><h1 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h1><p>至此，所有配置工作都结束了，来看一下效果如何</p><p><img src="https://img.cqlkc.top/202212/57454b26023c196664bfa8810d17be47.webp" alt=""></p><p>可以看到帧率显示“23.976 -&gt; 71.92”，这就代表插帧成功了</p><h1 id="深度折腾"><a href="#深度折腾" class="headerlink" title="深度折腾"></a>深度折腾</h1><p>以上配置都是基于Potplayer进行的，这个播放器很有意思，可以搭配madVR+LAV实现一些很惊艳的视频显示效果</p><p>（当然我这种用着廉价显示器的，看着低码率资源的菜鸡就不用折腾就是了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 水文 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 插帧 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>高考化学易考易错知识点总结</title>
+      <link href="/posts/10471.html"/>
+      <url>/posts/10471.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><h2 id="笔者的碎碎念"><a href="#笔者的碎碎念" class="headerlink" title="笔者的碎碎念"></a>笔者的碎碎念</h2><p>刚刚做了两道有机题，<del>我发现我会个锤子化学</del></p><p>话说回来，高中化学跟初中化学有明显的不同，<del>但逃不掉记忆大赛的本质</del></p><p>而且跟初中化学一样有很多坑点</p><p>所以就总结一下自己遇到的易错点（顺便也是复习了</p><h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><p>高中化学教学主要使用4本教材</p><ul><li>必修一，比较简单，有点初高中衔接的感觉，没有思维障碍（？</li><li>选择性必修一，主讲化学反应理论类，比较抽象（据说是最难的部分</li><li>选择性必修二，主讲结构，需要记忆和一定的空间想象能力</li><li>选择性必修三，专讲有机物及有机反应，重推理和记忆能力</li></ul><p>ps：必修二所包含的内容大多重复，为了赶进度cq这边基本不讲</p><h1 id="正片"><a href="#正片" class="headerlink" title="正片"></a>正片</h1><h2 id="必修一"><a href="#必修一" class="headerlink" title="必修一"></a>必修一</h2><h3 id="第一章-物质及其变化"><a href="#第一章-物质及其变化" class="headerlink" title="第一章 物质及其变化"></a>第一章 物质及其变化</h3><p>咕咕咕，不写了（ε=ε=ε=┏(゜ロ゜;)┛</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 化学 </tag>
+            
+            <tag> 学习 </tag>
+            
+            <tag> 总结 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>[未完]白嫖gpu云服务器部署webui方案汇总</title>
+      <link href="/posts/39808.html"/>
+      <url>/posts/39808.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="简述"><a href="#简述" class="headerlink" title="简述"></a>简述</h1><p>官网：</p><p><a href="https://www.paperspace.com/">https://www.paperspace.com/</a></p><p>这里是自己写的终端命令全流程，直接CV到终端回车即可</p><p>用的anythingv3.0的3.7g模型，也可以用别的，自己改，但不能超过4.5g（数据瞎估的，反正太大存不下</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span> https://github.com/AUTOMATIC1111/stable-diffusion-webui</span><br><span class="line"><span class="built_in">cd</span> stable-diffusion-webui/</span><br><span class="line"><span class="built_in">mkdir</span> -p /notebooks/stable-diffusion-webui/models/Stable-diffusion /notebooks/stable-diffusion-webui/models/hypernetworks</span><br><span class="line">wget  -P /notebooks/stable-diffusion-webui/models/Stable-diffusion/  <span class="string">&quot;https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/Anything-V3.0-pruned.ckpt&quot;</span></span><br><span class="line">curl -Lo /notebooks/stable-diffusion-webui/config.yaml https://cloudflare-ipfs.com/ipfs/bafybeiav3j7npiuewbel3mi32l3sidgkw54kuleosbhxmdvddbnvtfi7yu/config.yaml</span><br><span class="line">COMMANDLINE_ARGS=<span class="string">&quot;--exit&quot;</span> REQS_FILE=<span class="string">&quot;requirements.txt&quot;</span> python launch.py</span><br><span class="line">wget https://github.com/ekzhang/bore/releases/download/v0.4.0/bore-v0.4.0-x86_64-unknown-linux-musl.tar.gz</span><br><span class="line">tar -xf bore-v0.4.0-x86_64-unknown-linux-musl.tar.gz</span><br><span class="line"><span class="built_in">rm</span> -f bore-v0.4.0-x86_64-unknown-linux-musl.tar.gz</span><br><span class="line"><span class="built_in">cp</span> bore /usr/bin/bore</span><br><span class="line"><span class="built_in">rm</span> -rf bore</span><br><span class="line">python webui.py --autolaunch --precision autocast --config config.yaml &amp; bore <span class="built_in">local</span> 7860 --to bore.pub</span><br></pre></td></tr></table></figure><p>最后一步的”INFO bore_cli::client: listening at bore.pub:xxxxx”中的pore.pub:xxxxx就是生成的隧道链接，直接打开即可</p><p>只能连续用6h用完了重启即可，没有限额</p><p>具体教程的以后在更（（我先润了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 水文 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 白嫖 </tag>
+            
+            <tag> GPU云服务器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>给你的A卡换张皮--强刷vBIOS开核</title>
+      <link href="/posts/59890.html"/>
+      <url>/posts/59890.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="写在开头"><a href="#写在开头" class="headerlink" title="写在开头"></a>写在开头</h1><p>开核，一个AMD的产品特有的词汇。</p><p>对于CPU而言，在Zen架构之前的系列里，部分特定批次的CPU可以在主板BIOS中打开那些被AMD屏蔽掉的可用核心（都是稀缺货</p><p>对于GPU而言，同样也是打开AMD屏蔽掉的那些流处理器，不过显卡不能通过像CPU那样调节BIOS轻松实现，但是它一般具有普适性</p><p>即只要是这个核心的显卡，就能通过强刷vBIOS来打开被屏蔽的流处理器</p><p>（有时为了让黑苹果免驱（如RX580 2048SP刷RX570），为了变身专业卡（Vega56刷WX8200）等，我们也许也会称这种行为叫开核，但这并不是严格意义上的开核，这顶多算换了个皮</p><h1 id="实践前提"><a href="#实践前提" class="headerlink" title="实践前提"></a>实践前提</h1><h2 id="确认条件"><a href="#确认条件" class="headerlink" title="确认条件"></a>确认条件</h2><p>首先，你先要有一块能够开核（或者开核有实际意义的）显卡</p><p>一般来说，有如下常见型号:（箭头具有传递性，也可以反着刷，只要你愿意XD）</p><ol><li><p>RX470D<sup><a href="#fn_1" id="reffn_1">1</a></sup>—&gt;RX470—&gt;RX580 2048SP</p></li><li><p>RX460 —&gt; RX560</p></li><li><p>RX560d<sup><a href="#fn_1" id="reffn_1">1</a></sup> —&gt; RX560</p></li><li><p>RX480 —&gt; RX580 —&gt; RX590GME</p></li><li><p>RX Vega56 —&gt; RX Vega64</p></li></ol><h2 id="准备vBIOS"><a href="#准备vBIOS" class="headerlink" title="准备vBIOS"></a>准备vBIOS</h2><div class="tip warning"><p>刷VBIOS具有极高的风险，要随时做好刷黑变砖的准备！</p></div><p>1.第一步打开<a href="https://www.techpowerup.com/download/techpowerup-gpu-z/">GPU-Z </a>“（如果没有，曾经作为一名图钉，我推荐<a href="http://www.tbtool.cn/">图吧工具箱</a>，doge）</p><p>如果没有问题的话，你应该看到这个界面</p><p><img src="https://img.cqlkc.top/202212/cdbd0cb24a4c2126ae7fea631d1405b6.webp" alt="GPU-Z"></p><div class="tip info"><p>这是对你现在使用的VBIOS的备份，非常重要！！</p></div><p>2.点击如图标出的小箭头，选择一个你可以找到的地方保存下来</p><p>（同时记住标红的几个参数，图中“4096MB”处对应你的显存大小，“Hynix”对于你的显存品牌</p><p>3.接下来，进入<a href="https://www.techpowerup.com/vgabios/">VGA Bios Collection | TechPowerUp</a>检索适合你的显卡的VBIOS</p><p>这里简单说下选择VBIOS的原则：</p><ol><li>核心一样（RX480 4G—&gt;RX580 4G是允许的，RX460 —&gt; RX580是不被允许的）</li><li>显存容量，品牌一样（RX480 4G尔必达 —&gt; RX480 4G三星不被允许，RX480 4G海力士 —&gt; RX580 4G海力士 是允许的）</li></ol><p>如图就是RX480 4G（海力士）对应的一个比较好的VBIOS（高亮的地方均符合要求</p><p><img src="https://img.cqlkc.top/202212/0c0f91c8b63cabf819cb2264bfdb2699.jpg" alt=""></p><hr><h1 id="刷入vBIOS"><a href="#刷入vBIOS" class="headerlink" title="刷入vBIOS"></a>刷入vBIOS</h1><div class="tip warning"><p>刷入vBIOS期间，不得有断电，父母突袭等意外情况导致电脑关机！</p></div><ol><li><p>到<a href="https://www.techpowerup.com/download/ati-atiflash/">AMDVBFlash / ATI ATIFlash (3.31) Download | TechPowerUp</a>下载软件 AMDVBFlash 并解压至一个你找得到的地方</p></li><li><p>将提前准备的待刷入的vBIOS，与amdvbflash放置在同一文件夹</p></li><li><p>右键，选择“在此处打开命令窗口”，输入</p><p>amdvbflash.exe -p -f 0 xxx.rom</p><p>其中，xxx.rom为准备的vBIOS</p></li><li><p>如果一切正常，他应该会提示你“Restart System To Complete VBIOS Update.”</p><p><img src="https://i0.hdslb.com/bfs/album/c66ffba0beca04d8bc6d2816544a0ad3c8246cbc.jpg" alt=""></p></li><li><p>重启电脑后，打开GPU-Z看看效果如何</p><p>如图，是我用RX480 4G刷的RX580 4G的成品图</p></li></ol><p><img src="https://img.cqlkc.top/202212/851b780760bcef4a1530a2ac2088c32f.webp" alt="变身RX580"></p><h1 id="刷黑救砖"><a href="#刷黑救砖" class="headerlink" title="刷黑救砖"></a>刷黑救砖</h1><p>刷vBIOS是一件有极大风险的事（失败了显卡直接变砖</p><p>不过一般而言，仅是刷错了vBIOS的话，显卡都还能救回来</p><h2 id="对于有双vBIOS开关的卡"><a href="#对于有双vBIOS开关的卡" class="headerlink" title="对于有双vBIOS开关的卡"></a>对于有双vBIOS开关的卡</h2><p>有双vBIOS开关的卡救卡难度是最低的</p><p>如果你发现刷入vBIOS后开机不过自检/黑屏，断电关机，切换vBIOS开关重启</p><p>进入系统后，直接切换vBIOS开关，依照<a href="#刷入vBIOS">刷入vBIOS</a>的方法再次强刷回先前备份的原vBIOS</p><p>（因此说备份vBIOS很重要！）</p><h2 id="对于没双vBIOS开关的"><a href="#对于没双vBIOS开关的" class="headerlink" title="对于没双vBIOS开关的"></a>对于没双vBIOS开关的</h2><p>可以在DOS环境下盲刷，具体教程：</p><div class="tag link"><a class="link-card" title="【图片】显卡刷坏BIOS黑屏，DOS盲刷经验之谈_显卡吧_百度贴吧" href="https://tieba.baidu.com/p/5500803523"><div class="left"><img src="https://tiebapic.baidu.com/forum/w%3D150%3Bh%3D150%3Bq%3D80%3B/sign=6858f2004cdfa9ecfd2e521252eb9f3e/9825bc315c6034a8c454289d961349540923767c.jpg?tbpicau=2022-11-24-05_3a0cfaf44ec7f8448e9432eeb9e9cb49"/></div><div class="right"><p class="text">【图片】显卡刷坏BIOS黑屏，DOS盲刷经验之谈_显卡吧_百度贴吧</p><p class="url">https://tieba.baidu.com/p/5500803523</p></div></a></div><p>可以在PE（Windows）环境下盲刷，对电脑要有相当的熟悉才可以做到：<br><div class="tag link"><a class="link-card" title="980m刷vbios黑屏，盲刷救回教程【准系统吧】_百度贴吧" href="https://tieba.baidu.com/p/6728462628"><div class="left"><img src="https://tiebapic.baidu.com/forum/w%3D150%3Bh%3D150%3Bq%3D80%3B/sign=6858f2004cdfa9ecfd2e521252eb9f3e/9825bc315c6034a8c454289d961349540923767c.jpg?tbpicau=2022-11-24-05_3a0cfaf44ec7f8448e9432eeb9e9cb49"/></div><div class="right"><p class="text">980m刷vbios黑屏，盲刷救回教程【准系统吧】_百度贴吧</p><p class="url">https://tieba.baidu.com/p/6728462628</p></div></a></div></p><p>还有一种要用到烙铁和编程器，这里就不涉及了（我没有也不会</p><h1 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h1><p>刷vBIOS有意思归有意思，但他最后有没有用嘛，就是另一回事了</p><p>如我的RX480 4G刷上RX580 4G后</p><p>待机功耗52W —&gt; 90W</p><p>游戏功耗 90Ww —&gt; 148W</p><p>功耗增加了50%以上，然而性能反而下降了10%左右</p><p>因为虽然RX480 和RX580本质上没什么区别，都是魔改GCN北极星架构</p><p>但是RX480供电为8pin TDP约120W，而RX580为8+6pin TDP约180W</p><p>刷入RX580的vBIOS后，针对RX480设计的供电和散热纷纷撞墙，因此性能不增反减</p><p>不过也不失为一种打发时间的好方法doge</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 水文 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电脑 </tag>
+            
+            <tag> 显卡 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电脑续命四年计划(3)-CPU升级2667v2</title>
+      <link href="/posts/62402.html"/>
+      <url>/posts/62402.html</url>
+      
+        <content type="html"><![CDATA[<script defer src="https://cdn.afdelivr.top/npm/echarts@5.4.0/dist/echarts.min.js" data-pjax type="text/javascript"></script><h1 id="写在开头"><a href="#写在开头" class="headerlink" title="写在开头"></a>写在开头</h1><p>这篇水文原本应该很久之前就动笔的，不过因为插进来个可恶的线上半期被迫延期</p><p>实际上，我也不是第一次换这台电脑的CPU了，总的路线图如下</p><p>E5-2670 —&gt; E5-1620v2 —&gt; E5-2667v2</p><p>第一次换呢，是为了提升单核性能，牺牲了多核性能（因为当时玩的游戏多核优化都很烂）</p><p>这一次换就是既要多核性能，还要单核性能（因此2667v2在当时是相当昂贵的U</p><hr><h1 id="CPU-Z参数图"><a href="#CPU-Z参数图" class="headerlink" title="CPU-Z参数图"></a>CPU-Z参数图</h1><h2 id="E5-1620V2"><a href="#E5-1620V2" class="headerlink" title="E5-1620V2"></a>E5-1620V2</h2><p><img src="https://i0.hdslb.com/bfs/album/9aae0b9ca05d1f30ca864a4883a02b0a284057bb.webp" alt = "1620v2" referrerPolicy="no-referrer" /></p><p>E5-1620v2参数实际上标得很迷惑，TDP标到了130W，但实际测试中顶天跑个90W（石锤了，1620v2就是i7-3770马甲）</p><h2 id="E5-2667V2"><a href="#E5-2667V2" class="headerlink" title="E5-2667V2"></a>E5-2667V2</h2><p><img src="https://i0.hdslb.com/bfs/album/ab3cf21546741c92dc6f2d07f2c8de21b51db7c9.webp" alt="2667v2"></p><p>可以看到实际上两块CPU因为同代产品，都是用的Ivy-bridge架构（也就是3代酷睿架构），因此IPC应该相近</p><p>且2667v2的睿频跑的要比1620v2要低一些（1620v2全核3.7GHz，2667V2全核3.6GHz）</p><p>然而实测下来，2667v2的单线程跑分比1620v2还高</p><p>猜测有可能是因为，2667v2有比1620v2大得多的三级缓存（不过一般来说，三缓只对游戏体验的有较大的影响</p><hr><h1 id="不严谨理论测试"><a href="#不严谨理论测试" class="headerlink" title="不严谨理论测试"></a>不严谨理论测试</h1><p><div id="cpu-test1" style="width: 85%;height:400px;"></div></p><script data-pjax="" type="text/javascript">var myChart = echarts.init(document.getElementById('cpu-test1'));var option = {  title: {          text: 'CPU理论性能测试成绩'        },  legend: {},  tooltip: {},  dataset: {    dimensions: ['product', 'E5-1620v2', 'E5-2667v2', 'i5-10400F'],    source: [      {        product: 'CPU-Z单线程',        'E5-1620v2': 372.3,        'E5-2667v2': 376.4,        'i5-10400F': 479.1      },      {        product: 'CPU-Z多线程',        'E5-1620v2': 1862,        'E5-2667v2': 3536.8,        'i5-10400F': 3623.4      },      {        product: 'R15多线程',        'E5-1620v2': 621,        'E5-2667v2': 1141,        'i5-10400F': 1291      },      {        product: '国际象棋(取1/10)',        'E5-1620v2': 1331.4,        'E5-2667v2': 2202.2,        'i5-10400F': 2246.8      }    ]  },  xAxis: { type: 'category' },  yAxis: {},  // Declare several bar series, each will be mapped  // to a column of dataset.source by default.  series: [{ type: 'bar' }, { type: 'bar' }, { type: 'bar' }]}; myChart.setOption(option);  // 刷新调整  window.onresize = function () {    myChart.resize();  }</script><p>这里为了方便对比洋垃圾v2与现在CPU性能差距，引入了一个I5-10400F的参考对比数据</p><p>不过不难看出，E5-2667v2几乎可以跟i5-10400f打个五五开（当然IPC是远远不如，尤其是面对新出的13代</p><p>而理论多线程性能约为1620v2的两倍</p><hr><h1 id="不严谨游戏测试"><a href="#不严谨游戏测试" class="headerlink" title="不严谨游戏测试"></a>不严谨游戏测试</h1><h2 id="战地1-64人模式"><a href="#战地1-64人模式" class="headerlink" title="战地1 64人模式"></a>战地1 64人模式</h2><p>画质设置: 高</p><p>环境温度:不知道</p><h3 id="E5-1620v2"><a href="#E5-1620v2" class="headerlink" title="E5-1620v2"></a>E5-1620v2</h3><p><img src="https://i0.hdslb.com/bfs/album/d6cf9a56ff0e11458243180771a60b1bb66a0fd9.webp" alt=""></p><p>在非交战区域，<strong>FPS大约在69帧</strong>左右，勉强能玩</p><p>CPU占用跑到了79%，后台基本上不能挂东西</p><p>之前就某一次游戏全程掉帧，预估平均fps只有20左右<del>（结果发现是后台挂了<a href = "https://oi.saiodgm.gq">@Saiodgm</a>的网站没有休眠，把CPU吃到了99%</del></p><p>GPU跑到了100%，还是很给力的（GPU一般都最好跑满，跑不满要么是优化问题，要么是其他硬件有瓶颈限制了发挥）</p><h3 id="E5-2667V2-1"><a href="#E5-2667V2-1" class="headerlink" title="E5-2667V2"></a>E5-2667V2</h3><p><img src="https://i0.hdslb.com/bfs/album/51204f2e0537e138d55131495ac9b2eee9673f76.webp" alt="E5-2667v2"></p><p>在同一场景下，E5-2667v2为<strong>76fps</strong>，要比E5-1620v2高出7fps</p><p>而且CPU的占用仅有33%（缺点是功耗的温度都有显著上升</p><h2 id="战地5-64人线上模式"><a href="#战地5-64人线上模式" class="headerlink" title="战地5 64人线上模式"></a>战地5 64人线上模式</h2><p>战地系列游戏特有的大战场场景非常适合用来测试CPU实际性能（而且优化做的很好，不像某P社只会用CPU0</p><p>在战地5中对CPU性能的要求比前作战地1还要高得多</p><p>画质设置：中（开启DX12和未来帧渲染，关闭垂直同步）</p><p>（原本想开高的，但是开高的话就爆显存了。。。）</p><p>环境温度：不知道</p><h3 id="E5-1620V2-1"><a href="#E5-1620V2-1" class="headerlink" title="E5-1620V2"></a>E5-1620V2</h3><p><img src="https://i0.hdslb.com/bfs/album/290712973e1b65cab2ecb55c55fc72c7b11a5a16.webp" alt="E5-1620v2"></p><p>野外非交战区域，<strong>FPS大约为76</strong></p><p>此时CPU占用已经跑到97%了，已经接近满载，后台几乎不能挂东西（否则会严重掉帧</p><p>GPU跑到了98%，也还不错，基本性能是发挥到位了的</p><p>游戏过程偶尔会掉帧，在中心交战区域尤其显著</p><p>（这就是为啥我打战地1却不玩战地5的部分原因</p><p>（当然战地5的画风和武器手感不喜欢也是</p><h3 id="E5-2667V2-2"><a href="#E5-2667V2-2" class="headerlink" title="E5-2667V2"></a>E5-2667V2</h3><p><img src="https://i0.hdslb.com/bfs/album/45c7f0027e573c4731f11408752c5fdacbc567e9.webp" alt=""></p><p>同样野外非交战场景，<strong>FPS大约为100</strong></p><p>遇到对CPU性能要求更高的战地5的时候，2667v2的双倍性能就得到了充分体现</p><p>这里CPU占用率仅为48%（后台可以随便挂了属于是），GPU占用率跑到了100%</p><p>帧数也相比1620v2有很大进步，76FPS —&gt; 100FPS</p><p><del>CPU功耗和温度也获得了显著提升</del></p><h3 id="表格汇总"><a href="#表格汇总" class="headerlink" title="表格汇总"></a>表格汇总</h3><p><div id="cpu-test2" style="width: 85%;height:400px;"></div></p><script data-pjax="" type="text/javascript">var myChart = echarts.init(document.getElementById('cpu-test2'));var option = {  title: {          text: 'CPU实际游戏帧率'        },  legend: {},  tooltip: {},  dataset: {    dimensions: ['product', 'E5-1620v2', 'E5-2667v2'],    source: [      {        product: '战地1',        'E5-1620v2': 69,        'E5-2667v2': 78      },      {        product: '战地5',        'E5-1620v2': 76,        'E5-2667v2': 100      }    ]  },  xAxis: { type: 'category' },  yAxis: {},  // Declare several bar series, each will be mapped  // to a column of dataset.source by default.  series: [{ type: 'bar' }, { type: 'bar' }, { type: 'bar' }]}; myChart.setOption(option);  // 刷新调整  window.onresize = function () {    myChart.resize();  }</script><hr><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>总的来说，这次升级还是非常值得的，不过这也仅限于升级来说</p><p>目前1620v2市场价90元左右（市场上需求真的很小，我挂咸鱼很久都卖不出去</p><p>2667v2市场价180元左右（还是最近价格大跳水才有的性价比，几个月前的价格是现在的好几倍</p><p>当然，如果你是全新装机，X79/X99这类<strong>洋垃圾一定要划入黑名单</strong>，老平台在最近的新架构面前没有<strong>任何性价比</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电脑续命四年计划 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电脑 </tag>
+            
+            <tag> 评测 </tag>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>一些奇怪的想法</title>
+      <link href="/posts/27613.html"/>
+      <url>/posts/27613.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="写在开头"><a href="#写在开头" class="headerlink" title="写在开头"></a>写在开头</h1><p>​    emmm…这个页面呢, 主要是用来记录一些平时脑子里突然产生的一些想法或者说问题 <del>(像什么上课走神的时候)</del></p><p>这些可能有简洁明了的答案, 但也有可能没有,  但我一定尽力去寻找并作一些分享吧</p><h1 id="Part1-摩擦起电的一些思考"><a href="#Part1-摩擦起电的一些思考" class="headerlink" title="Part1 摩擦起电的一些思考"></a>Part1 摩擦起电的一些思考</h1><p>​    物理很早以前就已经讲了摩擦起电了, 但是这个内容是在更深层次的化学知识学习之前讲的, 并且对具体原理并没有作要求。而我们在学习了更多化学知识后， 会发现有些内容是难以理解的</p><h2 id="课本原文的引发"><a href="#课本原文的引发" class="headerlink" title="课本原文的引发"></a>课本原文的引发</h2><blockquote><p>两个物体互相摩擦时，因为不同物体的原子核束缚核外电子的本领不同，所以其中必定有一个物体失去一些电子，另一个物体得到多余的电子。</p></blockquote><p>​    课本原文似乎在最初学习时是可以理解的, 但学过一点点化学后就不禁会有疑问:</p><ol><li><strong>许多物质是由分子构成的, 这些分子的”对电子的束缚能力”又跟什么有关</strong></li><li><strong>许多物质化学构成中各原子是保持着相对稳定结构的，而摩擦起电的电子得失不会打破这种相对稳定结构引起物质的不稳定吗</strong>（而我们又知道摩擦起电被认为是物理变化）</li></ol><h2 id="摩擦起电的电子得失问题"><a href="#摩擦起电的电子得失问题" class="headerlink" title="摩擦起电的电子得失问题"></a>摩擦起电的电子得失问题</h2><h3 id="Generic-Electron-Cloud-Potential模型"><a href="#Generic-Electron-Cloud-Potential模型" class="headerlink" title="Generic Electron-Cloud-Potential模型"></a>Generic Electron-Cloud-Potential模型</h3><p>这里需要查询一下万能的维基百科 <a href="https://en.wikipedia.org/wiki/Triboelectric_effect#Sparks">摩擦电效应</a></p><blockquote><p>Although the part ‘tribo-‘ comes from the Greek for “rubbing”, <em>τρίβω</em> (τριβή: friction), the two materials only need to come into contact for electrons to be exchanged. After coming into contact, a chemical bond is formed between parts of the two surfaces, called <a href="https://en.wikipedia.org/wiki/Adhesion">adhesion</a>, and charges move from one material to the other to equalize their <a href="https://en.wikipedia.org/wiki/Electrochemical_potential">electrochemical potential</a>. This is what creates the net charge imbalance between the objects. When separated, some of the bonded atoms have a tendency to keep extra electrons, and some a tendency to give them away, though the imbalance will be partially destroyed by <a href="https://en.wikipedia.org/wiki/Quantum_tunneling">tunneling</a> or <a href="https://en.wikipedia.org/wiki/Electrical_breakdown">electrical breakdown</a> (usually <a href="https://en.wikipedia.org/wiki/Corona_discharge">corona discharge</a>). In addition, some materials may exchange ions of differing mobility, or exchange charged fragments of larger molecules.</p><p>The triboelectric effect is related to <a href="https://en.wikipedia.org/wiki/Friction">friction</a> only because they both involve <a href="https://en.wikipedia.org/wiki/Adhesion">adhesion</a>. However, the effect is greatly enhanced by rubbing the materials together, as they touch and separate many times.<a href="https://en.wikipedia.org/wiki/Triboelectric_effect#cite_note-DiazFelix-Navarro2004-17">[17]</a></p><p>For surfaces with differing geometry, rubbing may also lead to heating of protrusions, causing <a href="https://en.wikipedia.org/wiki/Pyroelectricity">pyroelectric</a> charge separation which may add to the existing <a href="https://en.wikipedia.org/wiki/Contact_electrification">contact electrification</a>, or which may oppose the existing polarity. Surface nano-effects are not well understood, and the <a href="https://en.wikipedia.org/wiki/Atomic_force_microscope">atomic force microscope</a> has enabled rapid progress in this field of physics.</p></blockquote><p>维基百科大概的意思是说:</p><p>这里有一个解释一般的摩擦起电的模型被称为<strong>generic electron-cloud-potential模型</strong><img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.14/img/Electron_cloud_model.webp" alt=""></p><p>讲的就是，两种材料制成的物质只需要紧密接触(并不一定需要摩擦) , 电子即可发生交换</p><p>。在<strong>低于原子平衡距离</strong>接触后，两个表面的部分之间通过<strong>电子云的重叠</strong>形成<strong>化学键</strong> (这里可以是共价键也可以是离子键)。</p><p>而施加的外力，可以进一步<strong>减小</strong>这两材料间两个原子间的距离（也就是键长），这种电子云的高度重叠降低两原子的<strong>能垒</strong>促使其发生电子的转移。</p><p>此时若使两原子分离(摩擦实际上就是不断接触又分离的过程)，转移后的电子就保留了下来，形成了静电荷。</p><hr><h3 id="理论后的思考"><a href="#理论后的思考" class="headerlink" title="理论后的思考"></a>理论后的思考</h3><p>可以看到这个非常高大上的理论解释了为什么会有电子的转移，但这个并没有问答上面的问题</p><p>而且随着研究的深入， 问题的探究深度已经远远超出了我的预期</p><p>这里提供一篇大佬的相关论文 <a href="https://cdn.afdelivr.top/npm/cqlkc_assets@1.0.2/pdf/ce.pdf">On the Electron-Transfer Mechanism in the ContactElectrification Effect</a></p><p>说了这么多， 对于一般的题目来说只需要记住结论就可以了，千万不要想太多🤣</p><h1 id="Part2-未完待续"><a href="#Part2-未完待续" class="headerlink" title="Part2 未完待续"></a>Part2 未完待续</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 胡扯区 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 奇思妙想 </tag>
+            
+            <tag> 胡扯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>预告:廉价路由也能刷固件</title>
+      <link href="/posts/36551.html"/>
+      <url>/posts/36551.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="写在开头"><a href="#写在开头" class="headerlink" title="写在开头"></a>写在开头</h1><p>  主要讲小米路由器4A(应该是最便宜的路由器了)的刷固件折腾过程<br>等半期后再来更新…(由于这台路由器暂时不在手上，所以无限期推迟吧( ╯□╰ ))</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 路由器 </tag>
+            
+            <tag> 固件 </tag>
+            
+            <tag> Wi-Fi </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电脑续命四年计划(2)-PE4010两个月使用体验</title>
+      <link href="/posts/36101.html"/>
+      <url>/posts/36101.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="写在开头"><a href="#写在开头" class="headerlink" title="写在开头"></a>写在开头</h1><p>  这个使用体验为什么被划进了四年计划里面?</p><p>实际上是因为这块海力士的PE4010是要顶掉挂掉的机械硬盘之前所扮演的角色:</p><ul><li>存游戏: 主盘480g, 实际可用容量不足300G, 用起来难受</li><li>存不重要文件: 毕竟还是块洋垃圾, 不敢装重要文件(</li></ul><hr><h1 id="使用体验"><a href="#使用体验" class="headerlink" title="使用体验"></a>使用体验</h1><h2 id="购入经历"><a href="#购入经历" class="headerlink" title="购入经历"></a>购入经历</h2><p>  这块盘是在2022年8月21号购入 (正好在短短的暑假第二阶段的开头)</p><p>之前, 这台电脑一直是 2TB机械 + 480G SATA固态的搭配</p><p>其中2TB机械自从2020年以后, 工作状态就极为令人担忧, 比如:</p><p>当你打开游戏与网友联机时, 突然机械硬盘处传来一阵”滋滋”的掉盘声, 这个时候轻则卡顿掉线, 重则蓝屏, 然后你的队友的屏幕上缓缓升起:</p><p><img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.10/img/ceo-exit.webp" alt="心 脏 骤 停"></p><p>接着就在等待机械硬盘令人捉急的加载时长中, 被网友们QQ轰炸吧(</p><p>所以当这个硬盘终于挂掉的时候, 我甚至发了条说说来庆祝o(*￣▽￣*)ブ5</p><p><img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.11/img/qq-zone-1.webp" alt="而我上次发说说已经是2018年了..."></p><p>当然机械硬盘上面所有的数据也是全部挂掉了(但是大多都是游戏)</p><p>原来的游戏还需要一块盘来储存, 购入一块新硬盘的需求就很明显了</p><p>经过一些考虑, 最终选择了新靠岸的大船货PE4010:<br><img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.9/img/pe4010-1.webp" alt="现在已经买不到了"></p><p>商家说这块盘的写入量10t-20t左右, 通电时间100h以下(是不是清零盘存疑)</p><p>不过据网上的说法, 这块盘采用的主控马牌88SS1093是不能清零的, 无论如何这个价格要什么自行车</p><p>而为什么就写了10t就从服务器流入了市场,网上传言的解释是：</p><blockquote><p>PSA PE4010 和 PE6110 有极为严重的品控问题，具体表现为因焊料和 PCB 选材问题，在相对不够干净的环境下会出现铜绿腐蚀穿 PCB 和 NAND 的情况<br>南方高湿度的气候会显著加速这个过程</p><p>且厂商无妥善解决方案</p></blockquote><hr><h2 id="实物"><a href="#实物" class="headerlink" title="实物"></a>实物</h2><p><img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.10/img/DSC_0379.webp" alt="转接卡+散热片完全体"></p><p>而受限于X79的扩展性 (没有m.2 22110插槽, 也不支持NVME引导)</p><p>所以这块盘的定位就只能是从盘 (从盘性能比主盘好就离谱)</p><p>只能用pcie转接卡, 并且紧贴显卡这一大热源, 而这个马牌主控本身就有惊人的发热量(裸奔情况下温度能破90)</p><p><img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.10/img/DSC_0383.webp" alt="没对焦好的主控特写"></p><p>为此特地买了散热片专门给主控散热(还涂了一堆硅脂), 日常使用温度就不会撞温度墙了</p><h2 id="不严谨测试"><a href="#不严谨测试" class="headerlink" title="不严谨测试"></a>不严谨测试</h2><p>话不多说, 先看一下基本信息</p><p><img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.10/img/a2.webp" alt="Diskinfo"></p><p>由于在此之前, 博主已经用了将近两个月了, 减去过后这个状况还是很令人满意的</p><p>再给它来一个测速:</p><p><img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.10/img/a3.webp" alt="不严谨测速"></p><p>性能表现实际上很一般, 不过已经比主盘TC10 480G和机械硬盘好太多了(已经知足了</p><p>作为对比, 我们来看一下TC10孱弱的性能表现</p><p><img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.12/img/tc10.webp" alt="不做功课乱买的下场"></p><hr><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>  海力士PE4010 960G这块盘在当时250元左右的时候是性价比最高的, 我上车的时候就已经算晚了</p><p>  至于现在960G 固态仓库盘的选择肯定不会推荐PE4010了</p><p>  一是它的2字头价格已经一去不复返了, 二是它缺乏保障的稳定性</p><p>  现在一般推荐加个几十上 pdd 的 SN350 1TB, 保修什么的都是实打实的, 而且性能作为仓库盘也足够了</p><h1 id="后期更新"><a href="#后期更新" class="headerlink" title="后期更新"></a>后期更新</h1><p>  翻车了再来更新(</p><h1 id="TO-DO-LIST"><a href="#TO-DO-LIST" class="headerlink" title="TO DO LIST:"></a>TO DO LIST:</h1><ul><li>[ ] 把固定散热片的橡胶换成尼龙之类的(橡胶易老化)</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电脑续命四年计划 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电脑 </tag>
+            
+            <tag> 评测 </tag>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电脑续命四年计划(0)-电脑情况概述</title>
+      <link href="/posts/26610.html"/>
+      <url>/posts/26610.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="写在开头"><a href="#写在开头" class="headerlink" title="写在开头"></a>写在开头</h1><p>  不知不觉, 手上这台电脑也已经服役将近6年(2017年1月购入并组装) 但是这台电脑目前的性能和工作状况一言难尽</p><p>且目前来看, 估计一直到高考结束(这期间有4年,故得名”四年计划”), 这台电脑都不可能有更新主要配件的机会</p><p>所以，保证这台电脑正常工作就显得至关重要</p><h1 id="配置概览"><a href="#配置概览" class="headerlink" title="配置概览"></a>配置概览</h1><h2 id="简单介绍"><a href="#简单介绍" class="headerlink" title="简单介绍"></a>简单介绍</h2><p>  先上图<br>  <img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.5/img/a5.webp" alt=""></p><p>  可以看到这套配置就一纯种洋垃圾配置, 几乎包含了洋垃圾的全部要素:</p><ul><li>E5-1620v2 服务器cpu, 差不多是i7-3770的马甲(不过价格低很多</li><li>HUANAN X79 华南的寨板, 不过这块X79是用的原生X79南桥, 不是用B75魔改的(质量还不错?</li><li>4GB REG ECC DDR3 1333MHz *4  三星的服务器内存, 由于家用主板用不了recc所以价格相当的便宜</li><li>海力士PE4010 960G(HFS9600GD0TEG) 也是捡的服务器SSD</li><li><p>恺侠tc10 480G 这个属于是没做功课, pdd上随便乱买的, 性价比一般</p><p>至于为什么要配这样一套配置，就得把时间拉回2017年1月了…(发现自己竟然这么早就在搞这个东西)</p></li></ul><h2 id="为什么不换平台？"><a href="#为什么不换平台？" class="headerlink" title="为什么不换平台？"></a>为什么不换平台？</h2><p>​    你可能会说，怎么2202年了还搁着用X79呢？12代i3什么的不比这个老掉牙的E5香的多？</p><p>实际上，目前如果购入一套新平台的话，没有1000+预算根本拿不下来。（现有所有零件基本均不适配</p><p>并且目前X79的相关二手价格奇低无比（4g内存条价格可能还不够出运费</p><p>奇低的二手价格导致了换平台的高成本，但是如果换一个思路想：</p><p>​    那它是不是也降低了我的<strong>升级成本</strong>呢？</p><p>答案是很显然的，目前情况如下：</p><ul><li>16g 1866recc单条只要50（64g内存指日可待？！</li><li>e5-2667v2单价200 （而e5-1620v2二手还能卖100</li></ul><p>所以短期来看，低投入的小修小补应该是最优解</p><h2 id="背景原因"><a href="#背景原因" class="headerlink" title="背景原因"></a>背景原因</h2><p>  在2017年的时候, AMD的锐龙系列还没有发售, 推土机之类的模块化架构IPC一言难尽</p><p>  家用平台基本只能用intel的酷睿系列</p><p>  由于缺乏竞争, 这个板u一套的价格嘛就一言难尽了</p><p>  最为重要的是, 2017年内存市场的爆炸(感谢生产线火灾的馈赠</p><p>  <img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.6/img/memory-increasing-price.webp" alt="内存价格飙升"></p><p>  但是随着一批批大船的靠岸, 大量被称为”洋垃圾”的淘汰服务器配件涌入国内市场, 包括但不限于:</p><ul><li>服务器内存(REGECC)</li><li>服务器主板(X79等)</li><li>服务器CPU(E5/E3等)</li><li><p>…</p><p>博主当时选择的是e5-2670 , 8C16T 花了约420性价比还是很足的(一个缺点是单核性能较为拉跨)</p><p>4*4G REGECC也是相当的便宜,一根估计也就几十块钱(而且有4通道加成)</p><p>还有显卡用的是GTX780Ti   不过后来换成了RX480, 下篇文章有讲</p></li></ul><h2 id="一些小插曲"><a href="#一些小插曲" class="headerlink" title="一些小插曲"></a>一些小插曲</h2><p>不过便宜也有代价， 当时电脑最开始组装好后出现了一个致命问题困扰了我好几个月（且十分难以排查</p><p>这里描述一下现象，看一下你能不能猜出来是什么问题:</p><ul><li>CPU正常鲁大师(均为旧版)跑分应为11.9w，结果实际只有9w</li><li>GPU正常鲁大师跑分应为18.9w，结果只有11w</li><li>游戏内帧数如GTA5只有个位数FPS，MC表现要好一些(至少能上60fps)</li><li>游戏内GPU和CPU都跑不满，既没有爆内存也没有爆显存</li></ul><p>揭秘：有一根<strong>内存条</strong>有问题，他处于一个半正常工作状态(能点亮过自检，但有问题)</p><p>这是在某次开机的时候，这个内存条直接开摆连自检都过不了，我就随便拿了两根家用内存条去测试</p><p>结果开机后跑分时发现：跑分又<strong>恢复正常了?!</strong></p><p>可以直接断定内存条有问题，直接换下来即可（不过这个问题时隔5年又复发了，但我已经有经验也不就慌了…</p><h1 id="运行现状"><a href="#运行现状" class="headerlink" title="运行现状"></a>运行现状</h1><h2 id="一张图就能说明一切"><a href="#一张图就能说明一切" class="headerlink" title="一张图就能说明一切"></a>一张图就能说明一切</h2><p>  <img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.7/img/DSC_0385.webp" alt="机箱侧面图"></p><p>  <strong>要素盘点:</strong></p><ul><li>缺乏安全感的水冷(水冷:从入门到索赔无门)</li><li>敞开体系运行(大号吸尘器)</li><li>灵 魂 走 线(哪天开不了机了记得看一下跳线是不是松了)</li><li>装饰兼玩具用光驱(没接SATA数据线,只连了电源线,等开机的时候按着玩..)</li><li>没有螺丝固定的风扇和固态(丑)</li><li>连接不全的跳线(只连了开机和重启跳线)</li></ul><p>以这个运行状况, 这电脑能用5年就已经是奇迹了(逃</p><h1 id="升级计划"><a href="#升级计划" class="headerlink" title="升级计划"></a>升级计划</h1><ul><li>[x] 把CPU换成E5-2667v2(4核e5打战地太捉急了)</li><li>[ ] 换下令人缺乏安全感的120水冷(已经过了质保期了…)</li><li>[x] 整理一下走线</li><li>[ ] …</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电脑续命四年计划 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电脑 </tag>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电脑续命四年计划(1)-给老显卡改善一下散热条件</title>
+      <link href="/posts/23205.html"/>
+      <url>/posts/23205.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="写在开头"><a href="#写在开头" class="headerlink" title="写在开头"></a>写在开头</h1><h2 id="为什么要换成RX484"><a href="#为什么要换成RX484" class="headerlink" title="为什么要换成RX484"></a>为什么要换成RX484</h2><p>不知不觉，电脑上的这块RX480 4G也用了快5年了 <del>(能用5年就是奇迹)</del></p><p>实际上这台电脑最开始用的不是RX484, 最开始是用的老卡皇gtx780ti 3G</p><p>这gtx780ti呢, 给人最显著的感受就是: <strong>这功耗真的大啊！！</strong></p><p>为此电源是直接给到了额定700W, 用是可以用了, 但是老开普勒架构的表现也是不尽如人意:</p><ul><li>功耗问题：游戏时可以达到300W的功耗，这电费和温度谁顶得住</li><li>优化问题: 老架构对新游戏支持不够好</li></ul><h2 id="换了RX484后的表现"><a href="#换了RX484后的表现" class="headerlink" title="换了RX484后的表现"></a>换了RX484后的表现</h2><p>综合了一些考虑以后， 果断在咸鱼上面卖掉换了RX484(并小赚几百)</p><p>  至于RX484, 一看它的参数:</p><ul><li>功耗只有100W</li><li>有14nm制程加持(<del>想必这温度表现一定很好吧!</del>)</li></ul><p>结果这块RX484温度表现更为惊人, 正常游戏中就可以跑到780ti都难以企及的80度以上</p><p>权宜之计就是机箱不关侧盖，结果就是变身吸尘器+电热炉</p><p>这样一直用到了2021年…</p><p>  到了2021年的时候, 大家都知道又一轮大规模的矿潮来了, 一时间各平台的显卡价格飞涨</p><p>甚至包括RX480 4G这块挖不了ETH的老兵, 当时挂咸鱼上时价格直接给到了2000元</p><p>但是由于我当时沉迷于游戏之中, 确实不愿意将显卡出手(谁知道什么时候矿难呢?</p><p>结果, 过了一周显卡价格直接跳水, 再过一两个月2000元就能买到新的丐版RX6600XT了</p><p>(追悔莫及中…&#x1F602;)</p><hr><p>不过既然当时没有抛弃它, 未来也很难有机会甩掉它了</p><p>所以,我们的目标肯定不是只用5年就结束了, 既然叫四年计划目标就是尽量让它再战四年, (<del>让高中还能继续打游戏</del>)</p><hr><h1 id="第一阶段-换硅脂"><a href="#第一阶段-换硅脂" class="headerlink" title="第一阶段: 换硅脂"></a>第一阶段: 换硅脂</h1><p>简简单单换个硅脂, 毕竟干其他的, 我条件也有限。</p><p>现在用的硅脂是估计一年前左右买的便宜大碗的高导GD007(几块钱就有十多克), 对比一下7921甚至TFX, 这个性价比简直不能太高</p><p>但是这种便宜的硅脂一个很大的问题就是寿命有限, 越到后面这散热性能就越令人捉急</p><h2 id="初始表现"><a href="#初始表现" class="headerlink" title="初始表现"></a>初始表现</h2><pre><code>测试条件: 敞开体系, 室温19℃</code></pre><p>  驱动日用设置参数如图<br>  <img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.5/img/a6.webp" alt="驱动参数"></p><p>  为了对比, 先跑一个甜甜圈看一下GD007的表现<br>  <img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.4/img/a1.webp" alt="直逼80度的骇人散热"><br>  <img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.4/img/a7.webp" alt="直逼112A的骇人电流"></p><p>  可以看到核心温度基本稳定在79度, 功耗107W左右, 我就很疑惑这真的能用4年吗</p><h2 id="更换硅脂"><a href="#更换硅脂" class="headerlink" title="更换硅脂"></a>更换硅脂</h2><p>  先拆下这块久经沙场的RX480<br>  <img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.5/img/DSC_0377.webp" alt="黑狼丐中丐"></p><p>  拧掉背板上的几颗螺丝后，就看见PCB板真面目了<br>  <img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.5/img/DSC_0378.webp" alt="PCB局部图"></p><p>  把核心上原有的硅脂擦干净以后</p><p>  (忽视旁边溢出的硅脂和有些焦黄的显存，这个核心还是很好看的</p><p>  挤上硅脂7921, 插电正常亮机</p><h2 id="7921的表现"><a href="#7921的表现" class="headerlink" title="7921的表现"></a>7921的表现</h2><p>  保持显卡驱动设置不变再跑一次</p><p>  <img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.5/img/a4.webp" alt="7921的表现"></p><p>  emmmmmm…这个好像并没有什么变化啊</p><p>  不过核心我们一般认为还是很耐艹的, 76度也问题不大(麻痹自己中…)</p><h1 id="第二阶段-降压但不超频"><a href="#第二阶段-降压但不超频" class="headerlink" title="第二阶段: 降压但不超频"></a>第二阶段: 降压但不超频</h1><h2 id="微调电压"><a href="#微调电压" class="headerlink" title="微调电压"></a>微调电压</h2><h3 id="为什么"><a href="#为什么" class="headerlink" title="为什么?"></a>为什么?</h3><p>  我们知道很多玩家拿到显卡后, 最喜欢做的就是看下显卡的体质来波降压超频(甚至是加压超频)</p><p>  根据半导体芯片的功耗公式: (a,b对于同一芯片为常量,F指频率)</p><script type="math/tex; mode=display">P=a*b*F*U^2</script><p>  可以看到电压在其中是二次项, 调整电压的大小对于功耗来说有举足轻重的作用(再辅以降频)<br>  可以达到降低功耗进而 (<del>践行低碳生活</del>) 降低散热压力</p><h3 id="实际操作"><a href="#实际操作" class="headerlink" title="实际操作"></a>实际操作</h3><p>  实际操作起来就是一点点地去降低电压, 比如:</p><p>  我设置1150mV能过压测,我设置1130mV也能过压测,我设置1101mV还能过压测</p><p>  但是如果跳到1100mV显卡终于绷不住了,那你就成功地把握住了显卡的底线1101mV(大雾)</p><p>  不过并不建议就把电压设置为1101mV, 在低负载的时候可能会出问题……</p><p>  这里是我自己测好的最优电压状态<br>  <img src="https://cdn.afdelivr.top/npm/cqlkc_img@1.0.8/img/test1.webp" alt=""></p><h2 id="风扇策略"><a href="#风扇策略" class="headerlink" title="风扇策略"></a>风扇策略</h2><p>  这个的话就不展开了, 风扇策略实际上是取决于使用者本身的底线(对噪音的忍耐程度)</p><p>  不过我都把机箱侧盖扔了, 噪音什么的也不在乎, 直接往上拉就行了</p><h1 id="第三阶段-未完待续"><a href="#第三阶段-未完待续" class="headerlink" title="第三阶段:未完待续"></a>第三阶段:未完待续</h1><h1 id="To-Do-List"><a href="#To-Do-List" class="headerlink" title="To Do List:"></a>To Do List:</h1><ul><li>[ ] 给裸露的显存加一下散热片</li><li>[ ] 给mos管加导热垫</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电脑续命四年计划 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电脑 </tag>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/posts/4a17b156.html"/>
+      <url>/posts/4a17b156.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="不弃坑，坚持写"><a href="#不弃坑，坚持写" class="headerlink" title="不弃坑，坚持写"></a>不弃坑，坚持写</h1><p>本站从10月2日也就正式启用了，希望用这个官方生成的helloworld来作为纪念吧。</p><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>

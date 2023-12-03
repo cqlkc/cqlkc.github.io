@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>cqlkc的博客</title>
+  <icon>https://cqlkc.top/img/siteicon/64.png</icon>
+  <subtitle>无聊</subtitle>
+  <link href="https://cqlkc.top/atom.xml" rel="self"/>
+  
+  <link href="https://cqlkc.top/"/>
+  <updated>2023-12-03T05:08:29.054Z</updated>
+  <id>https://cqlkc.top/</id>
+  
+  <author>
+    <name>cqlkc</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Caddy -- 一款优秀的Web服务器</title>
+    <link href="https://cqlkc.top/posts/51203.html"/>
+    <id>https://cqlkc.top/posts/51203.html</id>
+    <published>2023-08-28T14:50:42.000Z</published>
+    <updated>2023-12-03T05:08:29.054Z</updated>
+    
+    
+    <summary type="html">用起来比nginx方便太多了...</summary>
+    
+    
+    
+    
+    <category term="web" scheme="https://cqlkc.top/tags/web/"/>
+    
+    <category term="caddy" scheme="https://cqlkc.top/tags/caddy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给老手机部署上Alist服务</title>
+    <link href="https://cqlkc.top/posts/13283.html"/>
+    <id>https://cqlkc.top/posts/13283.html</id>
+    <published>2023-06-29T12:55:37.000Z</published>
+    <updated>2023-12-03T05:08:29.054Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;家里有一台闲置的小米8（dipper），已经提前解锁Bootloader，中考后就想着在上面架设linux终端跑点东西&lt;/p&gt;
+&lt;h1 id=&quot;准备过程&quot;&gt;&lt;a href=&quot;#准备过程&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="瞎搞" scheme="https://cqlkc.top/tags/%E7%9E%8E%E6%90%9E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A卡、I卡如何愉快地使用UVR5</title>
+    <link href="https://cqlkc.top/posts/37966.html"/>
+    <id>https://cqlkc.top/posts/37966.html</id>
+    <published>2023-05-27T09:34:58.000Z</published>
+    <updated>2023-12-03T05:08:29.054Z</updated>
+    
+    
+    <summary type="html">要玩AI就别买A卡</summary>
+    
+    
+    
+    
+    <category term="水文" scheme="https://cqlkc.top/tags/%E6%B0%B4%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>红米9A “Windows未识别的USB设备” 深度救砖</title>
+    <link href="https://cqlkc.top/posts/34206.html"/>
+    <id>https://cqlkc.top/posts/34206.html</id>
+    <published>2023-03-18T12:57:37.000Z</published>
+    <updated>2023-12-03T05:08:29.054Z</updated>
+    
+    
+    <summary type="html">没事瞎折腾</summary>
+    
+    
+    
+    <category term="水文" scheme="https://cqlkc.top/categories/%E6%B0%B4%E6%96%87/"/>
+    
+    
+    <category term="瞎折腾" scheme="https://cqlkc.top/tags/%E7%9E%8E%E6%8A%98%E8%85%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a卡视频开启插帧功能</title>
+    <link href="https://cqlkc.top/posts/59508.html"/>
+    <id>https://cqlkc.top/posts/59508.html</id>
+    <published>2022-12-15T15:56:51.000Z</published>
+    <updated>2023-12-03T05:08:29.054Z</updated>
+    
+    
+    <summary type="html">GCN架构特有的插帧功能</summary>
+    
+    
+    
+    <category term="水文" scheme="https://cqlkc.top/categories/%E6%B0%B4%E6%96%87/"/>
+    
+    
+    <category term="插帧" scheme="https://cqlkc.top/tags/%E6%8F%92%E5%B8%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>高考化学易考易错知识点总结</title>
+    <link href="https://cqlkc.top/posts/10471.html"/>
+    <id>https://cqlkc.top/posts/10471.html</id>
+    <published>2022-11-30T22:46:13.000Z</published>
+    <updated>2023-12-03T05:08:29.058Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;h2 id=&quot;笔者的碎碎念&quot;&gt;&lt;a href=&quot;#笔者的碎碎念&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="https://cqlkc.top/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="化学" scheme="https://cqlkc.top/tags/%E5%8C%96%E5%AD%A6/"/>
+    
+    <category term="学习" scheme="https://cqlkc.top/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="总结" scheme="https://cqlkc.top/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>白嫖gpu云服务器部署webui方案汇总</title>
+    <link href="https://cqlkc.top/posts/39808.html"/>
+    <id>https://cqlkc.top/posts/39808.html</id>
+    <published>2022-11-23T22:26:40.000Z</published>
+    <updated>2023-12-03T05:08:29.054Z</updated>
+    
+    
+    <summary type="html">白嫖才是第一生产力（（</summary>
+    
+    
+    
+    <category term="水文" scheme="https://cqlkc.top/categories/%E6%B0%B4%E6%96%87/"/>
+    
+    
+    <category term="白嫖" scheme="https://cqlkc.top/tags/%E7%99%BD%E5%AB%96/"/>
+    
+    <category term="GPU云服务器" scheme="https://cqlkc.top/tags/GPU%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给你的A卡换张皮--强刷vBIOS开核</title>
+    <link href="https://cqlkc.top/posts/59890.html"/>
+    <id>https://cqlkc.top/posts/59890.html</id>
+    <published>2022-11-21T21:48:30.000Z</published>
+    <updated>2023-12-03T05:08:29.054Z</updated>
+    
+    
+    <summary type="html">开核是A卡的优秀传统，不能丢doge</summary>
+    
+    
+    
+    <category term="水文" scheme="https://cqlkc.top/categories/%E6%B0%B4%E6%96%87/"/>
+    
+    
+    <category term="电脑" scheme="https://cqlkc.top/tags/%E7%94%B5%E8%84%91/"/>
+    
+    <category term="显卡" scheme="https://cqlkc.top/tags/%E6%98%BE%E5%8D%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电脑续命四年计划(3)-CPU升级2667v2</title>
+    <link href="https://cqlkc.top/posts/62402.html"/>
+    <id>https://cqlkc.top/posts/62402.html</id>
+    <published>2022-11-17T13:12:05.000Z</published>
+    <updated>2023-12-03T05:08:29.054Z</updated>
+    
+    
+    <summary type="html">月考前还在折腾这些有的没的...</summary>
+    
+    
+    
+    <category term="电脑续命四年计划" scheme="https://cqlkc.top/categories/%E7%94%B5%E8%84%91%E7%BB%AD%E5%91%BD%E5%9B%9B%E5%B9%B4%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="电脑" scheme="https://cqlkc.top/tags/%E7%94%B5%E8%84%91/"/>
+    
+    <category term="评测" scheme="https://cqlkc.top/tags/%E8%AF%84%E6%B5%8B/"/>
+    
+    <category term="生活" scheme="https://cqlkc.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一些奇怪的想法</title>
+    <link href="https://cqlkc.top/posts/27613.html"/>
+    <id>https://cqlkc.top/posts/27613.html</id>
+    <published>2022-10-22T22:05:23.000Z</published>
+    <updated>2023-12-03T05:08:29.054Z</updated>
+    
+    
+    <summary type="html">记录那些离谱而有趣的想法</summary>
+    
+    
+    
+    <category term="胡扯区" scheme="https://cqlkc.top/categories/%E8%83%A1%E6%89%AF%E5%8C%BA/"/>
+    
+    
+    <category term="奇思妙想" scheme="https://cqlkc.top/tags/%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3/"/>
+    
+    <category term="胡扯" scheme="https://cqlkc.top/tags/%E8%83%A1%E6%89%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电脑续命四年计划(2)-PE4010两个月使用体验</title>
+    <link href="https://cqlkc.top/posts/36101.html"/>
+    <id>https://cqlkc.top/posts/36101.html</id>
+    <published>2022-10-16T00:12:05.000Z</published>
+    <updated>2023-12-03T05:08:29.054Z</updated>
+    
+    
+    <summary type="html">PE4010</summary>
+    
+    
+    
+    <category term="电脑续命四年计划" scheme="https://cqlkc.top/categories/%E7%94%B5%E8%84%91%E7%BB%AD%E5%91%BD%E5%9B%9B%E5%B9%B4%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="电脑" scheme="https://cqlkc.top/tags/%E7%94%B5%E8%84%91/"/>
+    
+    <category term="评测" scheme="https://cqlkc.top/tags/%E8%AF%84%E6%B5%8B/"/>
+    
+    <category term="生活" scheme="https://cqlkc.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电脑续命四年计划(0)-电脑情况概述</title>
+    <link href="https://cqlkc.top/posts/26610.html"/>
+    <id>https://cqlkc.top/posts/26610.html</id>
+    <published>2022-10-15T18:17:43.000Z</published>
+    <updated>2023-12-03T05:08:29.054Z</updated>
+    
+    
+    <summary type="html">努力给电脑续续命</summary>
+    
+    
+    
+    <category term="电脑续命四年计划" scheme="https://cqlkc.top/categories/%E7%94%B5%E8%84%91%E7%BB%AD%E5%91%BD%E5%9B%9B%E5%B9%B4%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="电脑" scheme="https://cqlkc.top/tags/%E7%94%B5%E8%84%91/"/>
+    
+    <category term="生活" scheme="https://cqlkc.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电脑续命四年计划(1)-给老显卡改善一下散热条件</title>
+    <link href="https://cqlkc.top/posts/23205.html"/>
+    <id>https://cqlkc.top/posts/23205.html</id>
+    <published>2022-10-15T17:47:54.000Z</published>
+    <updated>2023-12-03T05:08:29.054Z</updated>
+    
+    
+    <summary type="html">给老显卡降降温</summary>
+    
+    
+    
+    <category term="电脑续命四年计划" scheme="https://cqlkc.top/categories/%E7%94%B5%E8%84%91%E7%BB%AD%E5%91%BD%E5%9B%9B%E5%B9%B4%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="电脑" scheme="https://cqlkc.top/tags/%E7%94%B5%E8%84%91/"/>
+    
+    <category term="生活" scheme="https://cqlkc.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://cqlkc.top/posts/4a17b156.html"/>
+    <id>https://cqlkc.top/posts/4a17b156.html</id>
+    <published>2022-10-02T00:00:00.000Z</published>
+    <updated>2023-12-03T05:08:29.054Z</updated>
+    
+    
+    <summary type="html">梦开始的地方</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>

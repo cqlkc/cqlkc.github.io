@@ -6,7 +6,7 @@
   <link href="https://cqlkc.top/atom.xml" rel="self"/>
   
   <link href="https://cqlkc.top/"/>
-  <updated>2024-03-30T14:33:36.034Z</updated>
+  <updated>2024-06-09T15:18:15.242Z</updated>
   <id>https://cqlkc.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>穷玩游戏--PC Game Pass</title>
+    <link href="https://cqlkc.top/posts/202469.html"/>
+    <id>https://cqlkc.top/posts/202469.html</id>
+    <published>2024-06-09T14:05:14.000Z</published>
+    <updated>2024-06-09T15:18:15.242Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="写在开头">写在开头</h2><p>Xbox Game Pass，可谓是全球最受欢迎的游戏订阅服务，在用户规模和内容体量上都十分庞大。得益于巨硬的气大财粗以及Xbox旗下一系列工作室（如Playground Studio）产出的大量第一方游戏，XGP中也就不乏高质量的游戏。</p><p>经典的热门游戏如：<strong>极限竞速：地平线4</strong>、<strong>极限竞速：地平线5</strong>、<strong>Minecraft:Java &amp; Bedrock Edition</strong></p><p>爆火的现象级游戏如：<strong>幻兽帕鲁</strong>、<strong>庄园领主</strong></p><p>（这俩甚至是首发登录XGP）</p><p>稍小众的高质量游戏如：<strong>HiFi RUSH</strong>、<strong>Persona 3 Reload</strong>、<strong>都市：天际线2</strong></p><p>其他大作：<strong>星空</strong>、<strong>原子之心</strong>、<strong>星球大战：绝地幸存者</strong>(EA Play)</p><p>以上仅是我个人比较感兴趣的部分游戏，实际XGP中还包含很多游戏但我可能不知道（或者并不关心），而且XGP Ultimate还有云游戏等服务这里不作阐述</p><p><strong>但是</strong>，对于大多数PC玩家来说，我们需要购买的只有PC Game Pass（即Xbox Game Pass for PC）。而PC Game Pass不仅国区无法正常购买，而且价格不菲。对于新用户来说是10港币/月，也就是大约9元/月，而老用户为27元/月，若购买一年订阅则将花费超300元。对于学生党来说，可能一个月就只能玩10个小时左右，承担如此订阅费用会略有些压力。</p><p><img src="https://bu.dusays.com/2024/06/09/6665c67c27380.webp" alt=""></p><p>因此，PC Game Pass共享号应运而生。</p><h2 id="共享号？">共享号？</h2><p>目前，PC Game Pass共享号一年花费约在15元左右，甚至可以更低</p><p>一听见“共享号”再结合这个价格，似乎这个方案显得很不靠谱</p><p>实则不然，大多数卖PC Game Pass共享号的商家都采取了如下模式</p><ol><li>用新号购买一整年的XGPU,成本最多300</li><li>出售PC 登录位*10，15元</li><li>出售主机 HOME位*1，129元</li><li>出售主机 登录位*1，99元</li><li>出售EA Play账号*1，49元</li><li>出售战网*1，69元</li><li>出售拳头绑定*1，69元</li><li>出售云游戏服务，99元</li></ol><p>上述总共加和约<strong>565元</strong>，对比成本来说就很合理了。即使在最坏情况的下，只卖出了PC登录位和Xbox主机 HOME位、EA Play商家也是能赚钱的。</p><p>而且更重要的是，PC登录位一年只能有10个账号，这不能由号主删除或添加，所以店家也就没有了跑路的必要，即便跑了也不能多赚钱。</p><h2 id="Xbox账号问题">Xbox账号问题</h2><p>PC Game Pass共享号很好的一点就是——它只需要登录微软商店用于验证所有权，而玩游戏时用的Xbox是登录的自己的账号。也就是说，虽然是用的共享号，但如云存档、XBox点数、成就、在线游戏联机等都在自己的号上。（这点真的非常好</p><h2 id="关于购买">关于购买</h2><p>随便找一家评价时间跨度长一点的老店即可</p><h2 id="成品">成品</h2><p><img src="https://bu.dusays.com/2024/06/09/6665c5e18331e.webp" alt="最终成品"></p>]]></content>
+    
+    
+    <summary type="html">10元拿下各种游戏</summary>
+    
+    
+    
+    <category term="水文" scheme="https://cqlkc.top/categories/%E6%B0%B4%E6%96%87/"/>
+    
+    
+    <category term="游戏" scheme="https://cqlkc.top/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="pgp" scheme="https://cqlkc.top/tags/pgp/"/>
+    
+    <category term="xbox" scheme="https://cqlkc.top/tags/xbox/"/>
+    
+  </entry>
   
   <entry>
     <title>从6600xt到4060ti</title>
@@ -300,9 +325,9 @@
     
     <category term="电脑" scheme="https://cqlkc.top/tags/%E7%94%B5%E8%84%91/"/>
     
-    <category term="生活" scheme="https://cqlkc.top/tags/%E7%94%9F%E6%B4%BB/"/>
-    
     <category term="评测" scheme="https://cqlkc.top/tags/%E8%AF%84%E6%B5%8B/"/>
+    
+    <category term="生活" scheme="https://cqlkc.top/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -348,9 +373,9 @@
     
     <category term="电脑" scheme="https://cqlkc.top/tags/%E7%94%B5%E8%84%91/"/>
     
-    <category term="生活" scheme="https://cqlkc.top/tags/%E7%94%9F%E6%B4%BB/"/>
-    
     <category term="评测" scheme="https://cqlkc.top/tags/%E8%AF%84%E6%B5%8B/"/>
+    
+    <category term="生活" scheme="https://cqlkc.top/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   

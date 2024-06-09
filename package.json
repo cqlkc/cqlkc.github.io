@@ -1,1 +1,1 @@
-{"name":"cqlkc-mirror","version":"2.0.4","description":"","main":"sw.js","directories":{"test":"test"},"scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"author":"cqlkc","license":"ISC"}
+{"name":"cqlkc-mirror","version":"2.0.5","description":"","main":"sw.js","directories":{"test":"test"},"scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"author":"cqlkc","license":"ISC"}
